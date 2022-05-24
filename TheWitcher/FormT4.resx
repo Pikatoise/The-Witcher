@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label14.Text" xml:space="preserve">
+    <value>                                                                                              Задания:
+
+                                                     1)Пройти основной сюжет The Witcher 3
+                                                     2)Пройти дополнения "Каменные сердца" и "Кровь и вино"</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>    Прибыв в Новиград, все герои поселяются в пабе в Лютика. Геральт и Йеннифэр находят Шеалу и 
+Маргариту. Позже ведьмак вместе с Аваллак'хом посещают Ге'эльса на свою сторону - эльфа, 
+короля которого убил Эредин. Также он встречается с Филиппой Эйльхарт, которая помогает найти 
+Солнечный камень для приманки Дикой Охоты. Игроку также дается возможность поучаствовать в 
+убийстве Радовида, а также выбрать кто будет сидеть на троне.
+
+    Цири вместе с Аваллак'хом призывают Дикую 
+охоту. Им помогают отряды Эмгыра и Скеллиге. 
+Цири не выдерживает и отправляется на бой с 
+Эредином. Ослабив его, она исчезает, а на место 
+Цири встает Геральт и убивает Эредина. Тот говорит, 
+что Аваллак'х предал их обоих. В этот момент 
+начинается сопряжение сфер. Йеннифэр и Геральт 
+мчатся на гору, где находятся Цири и Аваллак'х. 
+Прибыв на место, ведьмак понимает, что Цири 
+хочет сразиться с Белым хладом, согласно 
+пророчеству. Цири заходит в портал и не 
+возвращается.
+    Если Геральт напоил Цири, отвез к отцу, забрал деньги и не поехал на могилу к парню, который 
+спас Цири, то девушка не вернется из портала. Геральт сразится с последней ведьмой из Велена, 
+найдет кулон Весемира и останется один.
+    Если Геральт играл с Цири в снежки, отвез к отцу, но не забрал деньги и поехал на могилу, то Цири 
+вернется и станет императрицей Нильфгаарда. Если Радовид жив, а Геральт не повез Цири к 
+Эмгыру, то Цири станет ведьмачкой.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>   Посидев у камина, герои отправляются на лошадях в Каэр Морхен. 
+Но тут прибывает Дикая Охота, Цири приходится телепортировать 
+себя и Геральта. В Каэр Морхене она встречает своих друзей. Вместе со своими друзьями Геральт 
+выстраивает стратегию по борьбе с Дикой Охотой, которая вот вот придет за Цири.
+
+    Во время битвы погибает Весемир, а Цири выпускает свою силу, которая всех оглушает. Цири 
+боится за то, что из-за нее может погибнуть кто-то еще. Аваллак'х принимается обучать девушку, 
+а чародейки решают обратиться за помощью к Ложе чародеек, чтобы вновь противостоять Дикой 
+Охоте. Цири решает отомстить за смерть Весемира, убив одного из предводителей отряда Дикой 
+Охоты. Вместе они отправляются в Велен, где Цири убивает двух ведем из трех с Кривоухих топей, а 
+Геральт убивает Имлериха</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>    Там герои находят труп труса, который сбежал во время нападения Дикой Охоты. Вернув его к 
+жизни на короткое время, они узнают, что он спас Цири, а сам погиб. Местные обозлились на 
+Йеннифэр, а сама чародейка просит Ведьмака поймать Джина. Если игрок проходит данный квест,
+то может выбрать - оставаться ли ему с чародейкой или расстаться с ней.
+
+    Поняв, что под Умой может скрываться Цири, ведьмак едет за ним в Велен. Получив от барона 
+существо, он намеревается расколдовать его в Каэр Морхене, но его настигают войска 
+императора Эмгыра. Тот отпускает чародейку с ведьмаком, требуя привести его дочь как можно 
+скорее.
+
+    В Каэр Морхене Йеннифэр пытается расколдовать Уму. В этом 
+ей помогает Весемир, Ламберт, Эскель и Геральт. Заколдованным 
+оказывается эльф Аваллак'х, который сообщает, что Цири прячется 
+на острове туманов. Перед тем, как туда отправиться, Геральт, 
+понимая, что Дикая охота пойдет за Цири, созывает всех своих 
+друзей в крепость. Попав на остров туманов, он находит Цири 
+безжизненной и холодной. Но вскоре девушка просыпается и 
+рассказывает ведьмаку свою историю.
+</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>    Также у Барона будет находится странное существо по имени Ума, которое потом пригодится по 
+сюжету. Также в Велене Геральт встретится с бывшей чародейкой короля Фольтеста Кейрой Мерц, 
+которая также поможет ему в поисках Цири. Чародейка также хочет вернуть доверие Радовида, 
+который убивает всех нелюдей без разбора, и предложить ему лекарство от болезни Катрионы. 
+Геральт может уговорить ее не ехать к Радовиду, а отправиться в Каэр Морхен, чтобы не продолжать 
+жить с крысами.
+
+    Поняв, что в Велене и Новиграде Цири нет, Геральт отправляется на Скеллиге. Прибыв на острова, 
+он попадает на похороны короля Брана. Ведьмак может быть втянут в очередные политические 
+проблемы и помочь будущему королю или королеве, если этого захочет игрок. Основной миссией 
+на Скеллиге является поиск Цири. Йеннифэр крадет маску уробороса у Мышовура, чтобы 
+исследовать магический выброс в местном лесу. Поняв, куда переместилась Цири с кем-то 
+неизвестным, они попадают в рощу Фреи</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>    В Новиграде ведьмаку предстоит выполнить немало заданий, прежде чем узнать, где находится 
+Цири. Он встречает давних знакомых: Золтана, Роше, Дийкстру, Лютика, Присциллу и даже 
+бывшую возлюбленную Трисс Меригольд. Основная цель в городе - найти Лютика и выяснить, 
+куда подевалась Цири. Перебив отряд охотника за колдуньями Менге и местного бандита Ублюдка 
+Младшего, Геральт спасает своих друзей и узнает зачем Цири прибыла в Новиград. Она попросила 
+помощи у Лютика, которого потом пришлось искать по всему городу. Во время побега, она 
+телепортировалась в неизвестном направлении. Во время поисков Цири в Новиграде, Геральт 
+также может помочь Лютику в спасении Присциллы и Трисс в спасении чародеев. Также именно в 
+Новиграде Геральт сможет построить дальнейшие отношения с Меригольд.
+
+    В Велене Геральт встречается с Кровавым 
+бароном. Тот встречал Цири, но ничего не 
+расскажет до тех пор, пока не найдет его жену 
+и дочь. Оказывается, что тот избивал обеих, 
+держа в страхе своих стражников и весь народ. 
+Геральт находит дочь Барона в Оксенфурте, а 
+жену у ведьм на местных болотах. В зависимости 
+от выбора игрока, жена Барона может умереть 
+или лишиться рассудка. Барон расскажет, как 
+Цири спасла местную девочку от волков, его от 
+грифона и была вынуждена уйти, чтобы дикая 
+охота не настигла ее в велене</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>    По пути во дворец они сталкиваются с Дикой охотой. Оказавшись у Эмгыра, Геральта моют, 
+переодевают, попутно спрашивая про судьбу Лето из второй части игры. Игрок может выбрать, 
+что ответить. От этого зависит встреча с убийцей королей в будущем: если Геральт говорит, что 
+убил Лето, то игра примет это и Лето будет считаться погибшем. Если же Геральт говорит, что 
+отпустил его, то в одном из квестов вы действительно встретите бывшего врага.
+
+    Встретившись с Эмгыром, Геральт получает задание найти Цири и доставить во дворец. В этом ему 
+поможет Йеннифэр, которая отправляется на Скеллиге. Прежде чем присоединиться к чародейке, 
+ведьмаку предстоит проверить два других места: Велен и Новиград.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>    События игры Ведьмак 3: Дикая Охота начинаются 
+спустя 2 года после окончания событий Ведьмак 2: 
+Убийцы Королей. Геральт вернул себе память и, 
+вместе с Весемиром, находится в поисках своей 
+давней возлюбленной Йеннифэр. В одну из ночей ему 
+снится кошмар: он в Каэр Морхене, тренирует Цири и 
+не может защитить ее от пришедшей Дикой охоты.
+
+    Проснувшись, он вновь отправляется в путь. 
+Пытаясь отыскать чародейку, ведьмаки оказывается 
+в Белом саду, где вынуждены помочь местному 
+капитану убить грифона в обмен на сведения о 
+местонахождении Йеннифэр. После этого Геральт успевает подраться с местными бандитами и, 
+весь в крови, наконец-то встретиться с Йеннифэр. Та не кидается ему в объятия, а просит 
+проследовать с ним до дворца Эмгыра.
+</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+</root>

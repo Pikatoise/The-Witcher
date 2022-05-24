@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label15.Text" xml:space="preserve">
+    <value>                                                                                            Глава IV
+    Геральт телепортируется на берег озера в Темноводье. Жители тех мест наблюдают появление 
+древнего затонувшего города. Поговорив с ними, ведьмак узнаёт, что подводные жители враждуют 
+с людьми. Поговорив со жрецом водяных, он понимает, что виной всему Дагон. Расправившись с 
+Дагоном, Геральт направляется в Вызиму.
+
+                                                                                            Глава V
+    Подплывая к Вызимской пристани, Геральт видит клубы 
+дыма — горит Старая Вызима. На пристани его встречает 
+Винсент. Геральт пробивается к старой Вызиме, там он 
+встречает короля Фольтеста. Фольтест просит ведьмака 
+снять с его дочери Адды от проклятие похожее на то, что 
+когда-то было наложено. В случае неудачи он просит ее 
+убить. В благодарность за выполнение поручения короля 
+Геральт узнаёт, где находится укрытие Яведа. Но граф де 
+Ветт встает у Геральта на пути к тайному укрытию 
+Саламандр, находящегомуся на болотах. 
+    Оказывается, что именно де Ветт повторно наложил проклятие на принцессу, и ведьмаку 
+ничего не остаётся, кроме как убить его. Зерриканский маг призывает на помощь смертоносное 
+чудовище — Кащея. Ведьмак уничтожает одно чудовище за другим, после чего убивает и самого 
+мага. Вскоре, Геральт узнает, кто на самом деле стоял за бандитами: им был Яков из Альдерсберга. 
+Ведьмак отправляется в Вызиму закончить дело, начатое им в Каэр Морхене.
+</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>    Огромная Кикимора-королева нападает на Геральта, но он справляется с тварью и выходит из 
+пещеры. На выходе его встречает нанимательница Саламандр — принцесса Адда. Она зла на 
+ведьмака и приказывает его убить. Но ведьмаку помогает Трисс, перенося его в Темноводье.</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>                                                                                                Глава III
+    Геральт очнулся в доме Трисс, она спасла его на болоте. Трисс просит Геральта пойти с ней на 
+светскую встречу. Ведьмаку не в силах отказать прекрасной чародейке. Геральт заручается 
+поддержкой Леуваардена в борьбе с Саламандрами в Купеческом квартале. Расшифровав 
+записку, найденную у убитого Геральтом главаря Саламандр, ведьмак и Леуваарден узнают, что их 
+база находится в зоне карантина. Пробравшись через канализацию, Геральт расправляется с 
+несколькими бандитами и магом. В центре комнаты, с помощью зеркала и магической сферы, 
+король Редании Радовид V Свирепый общается с Саламандрами. После беседы с Радовидом, 
+Геральт узнаёт где находится основная база Саламандр в Вызиме.
+
+     Когда Геральт приходит на место встречи, внезапно врывается де Ветт со своей ратью. 
+Трисс мгновенное переносит Геральта в тайную пещеру Саламандр. Там же Геральт 
+встречает своего помощника, вместе они бьются с Саламандрами, а Явед и Профессор 
+прячутся за порталом. Когда Явед пытается убить Геральта, срабатывает наложенное 
+заклинание Щит Альзура. Явед скрывается в портале.
+</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>    В итоге, если Геральт проводит собственное тщательное расследование, то узнает, что все 
+подозреваемые невиновны, настоящий Реймонд убит, а тот, кого он принял за детектива, никто 
+иной как сам Азар Явед, принявший облик погибшего детектива. Алхимик Калькштейн просит 
+ведьмака открыть старую башню на болотах, а также подсказывает, что Яведа будет легче 
+победить в этом месте
+
+    Разоблачив Яведа, Геральт обнажает меч, а чародей призывает Ифрита, а также открывает 
+портал, откуда выходит Профессор. Тем не менее Геральт оказывается не по зубам 
+Саламандрам, а потому они бросают ему под ноги склянку с ядом, испарения которого 
+отравляют ведьмака, и скрываются в портале.</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>    Под подозрением оказываются купец Деклан Леуваарден, банкир Голан Вивальди, мелкий 
+спекулянт Талер, капитан стражи Винсент Мэйс, главарь бандитов Могила и алхимик 
+Калькштейн. Вскоре на детектива выходят Саламандры, и он сбегает из дома, собираясь увести 
+бандитов по ложному следу. Вскоре он, однако, возвращается и рассказывает, что боец 
+Саламандр скончался, а Геральт объединяется с Шани, чтобы провести вскрытие. Ведьмак 
+может выяснить, что он был убит в результате попадания яиц зерриканских мух цеце в его 
+организм, которые он употребил, считая, что это фисштех. Наркотик ему в качестве анестезии 
+дала сама Шани, которой его передал Реймонд.
+</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>                                                                                                  Глава II
+                                                                                    Той же ночью капитан стражи Храмового квартала — 
+                                                                                Винсент Мэйс, объявляет королевскую амнистию тому, 
+                                                                                кто сможет уничтожить кокатрикса в канализации. Геральт 
+                                                                                решает убить чудовище, получает от Винсента серебряный 
+                                                                                ведьмачий меч и спускается в катакомбы под городом. 
+                                                                                Забрав голову куролиска, ведьмак направляется к выходу, 
+                                                                                когда на него нападают Саламандры, с которыми он 
+                                                                                разделывается.
+
+                                                                                    По совету Зигфрида ведьмак направляется местному 
+                                                                                детективу — Деклан Леуваарден рассказывает, что у 
+                                                                                чародея есть тайные источники финансирования, он 
+                                                                                проводит генетические эксперименты и, вероятно, 
+                                                                                имеет какой-то глобальный план. Реймонд советует 
+                                                                                ведьмаку также самому поискать подозреваемых, а 
+                                                                                также допросить раненного бойца Саламандр, недавно 
+                                                                                заключенного под стражу.</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>    Геральт возвращается в таверну, где обнаруживает бойцов Саламандры, сражается с ними и 
+преследует до их убежища в пещерах. В их логове Белый Волк узнает, что таинственный 
+предводитель Саламандр – могущественный чародей по имени Азар Явед, и встречает Альвина. 
+Тот рассказывает, что он оказался здесь потому, что Преподобный с толпой напал на дом Абигайл 
+и продал его Саламандрам. Ведьмак также сталкивается с ведьмой, и она просит у него защиты – 
+Преподобный решил убить её за то, что она слишком много знала о нём и его сторонниках. 
+
+    Ведьмак возвращается в таверну, забирает Шани, и они вместе идут к воротам, где Микула 
+передает Геральта страже за якобы фальсификацию документов – пропуск выписан на рыцаря 
+Ордена Пылающей Розы, и Геральт попадает в темницу.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>    Чтобы найти людей, носящих броши с саламандрами, Геральт обращается к Преподобному – 
+священнику церкви Вечного Огня. Жрец готов помочь ведьмаку, если тот выполнит контракт и 
+устранит чудовище, известное как Зверь, который и порождает баргестов, являясь их вожаком. 
+Преподобный считает, что если зажечь священный огонь на пяти алтарях Вечного Огня, то это 
+поможет изгнать монстра, но, разумеется, это не работает. 
+
+    Преподобный предлагает Геральту разобраться с местной знахаркой — ведьмой Абигайл, под 
+присмотр которой Шани отдала Альвина, и которая якобы наслала чудовище. Ведьма отрицает 
+все обвинения в свой адрес.
+</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>                                                                                                   Глава I
+
+    Ведьмаку не удаётся попасть в столицу Темерии – Вызиму, так 
+как из-за чумы Катрионы и карантина войти туда может лишь 
+обладатель специальной грамоты. Под покровом темноты на него 
+нападают призрачные собаки — баргесты, преследующие 
+женщину с ребёнком. Ведьмаку удаётся спасти мальчика по имени 
+Альвин, который неожиданно начинает левитировать и вещать о 
+грядущем конце света — Белом Хладе. Мальчик оказывается Истоком, перспективным 
+стихийным магом. Опеку над ним берёт рыжая медичка Шани– давняя знакомая ведьмака, хоть 
+тот ее и не узнает. Также в корчме Геральт знакомится с алхимиком Калькштейном, купцом 
+Декланом Леуваарденом, а также помогает другу из прошлой жизни — краснолюду Золтану 
+Хиваю.
+</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+</root>

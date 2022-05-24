@@ -1,0 +1,124 @@
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\bin\Release\TheWitcher.exe.config
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\bin\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\bin\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.csproj.AssemblyReference.cache
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormAuth.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.Properties.Resources.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.csproj.GenerateResource.cache
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.csproj.CoreCompileInputs.cache
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormBookMenucs.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormT1.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\bin\Release\TheWitcher.exe.config
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\bin\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\bin\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.csproj.AssemblyReference.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.FormAuth.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.FormBookMenucs.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.FormT1.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.Properties.Resources.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.csproj.GenerateResource.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.csproj.CoreCompileInputs.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher_note\TheWitcher\obj\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormT2.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormT3.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormT4.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormT5.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormAdmin.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormDB.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormAdd.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormDiag.resources
+C:\Users\Pikatoise\Desktop\TheWitcher\TheWitcher\obj\Release\TheWitcher.FormF.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\bin\Release\TheWitcher.exe.config
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\bin\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\bin\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.csproj.AssemblyReference.cache
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormAuth.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormAdd.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormAdmin.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormBookMenucs.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormDB.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormDiag.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormF.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormT1.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormT2.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormT3.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormT4.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.FormT5.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.Properties.Resources.resources
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.csproj.GenerateResource.cache
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.csproj.CoreCompileInputs.cache
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher1\TheWitcher\obj\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\bin\Release\TheWitcher.exe.config
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\bin\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\bin\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.csproj.AssemblyReference.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormAuth.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormAdd.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormAdmin.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormBookMenucs.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormDB.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormDiag.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormF.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormT1.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormT2.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormT3.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormT4.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.FormT5.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.Properties.Resources.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.csproj.GenerateResource.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.csproj.CoreCompileInputs.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcherV2\TheWitcher\obj\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\bin\Release\TheWitcher.exe.config
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\bin\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\bin\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.csproj.AssemblyReference.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormAuth.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormAdd.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormAdmin.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormBookMenucs.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormDB.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormDiag.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormF.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormT1.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormT2.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormT3.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormT4.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.FormT5.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.Properties.Resources.resources
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.csproj.GenerateResource.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.csproj.CoreCompileInputs.cache
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcherV21\TheWitcher\obj\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\bin\Release\TheWitcher.exe.config
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\bin\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\bin\Release\TheWitcher.pdb
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.csproj.AssemblyReference.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormAuth.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormAdd.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormAdmin.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormBookMenucs.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormDB.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormDiag.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormF.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormT1.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormT2.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormT3.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormT4.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormT5.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.FormTestEdit.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.Properties.Resources.resources
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.csproj.GenerateResource.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.csproj.CoreCompileInputs.cache
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.exe
+C:\Users\Pikatoise\Desktop\TheWitcher_После отчета\TheWitcher\obj\Release\TheWitcher.pdb

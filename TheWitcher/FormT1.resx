@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label6.Text" xml:space="preserve">
+    <value>                                                                                                 Задания:
+1) Прочитать две любые книги из саги о "Ведьмаке".
+2) Написать устный пересказ сюжета прочитанных книг.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>    Мир произведения по своей структуре напоминает Америку после первой волны европейской 
+колонизации. Полоса суши, тянущаяся вдоль западного побережья континента, уже в достаточной 
+степени заселена и обустроена, коренное местное население («нелюди») - принуждено к 
+ассимиляции, загнано в резервации и гетто, либо вытеснено в горы и другие малопригодные для 
+жизни места.
+В этом мире действует множество фракций - народов, рас, государств, организаций и тайных 
+обществ, борющихся за свои, зачастую корыстные, интересы, причём отношения между ними и 
+главными героями саги отличаются нестабильностью - бывшие союзники легко превращаются во 
+врагов, и наоборот. Главные герои постоянно оказываются между двух огней, будучи вынужденными 
+делать выбор в ситуациях, когда правильного пути и верного выбора просто не существует.
+
+Автор отказывается от чёткого разделения на «чёрное» и 
+«белое», скорее рисуя картину своего мира в различных 
+оттенках серого, при этом нередко прибегая к 
+натуралистичному описанию «тёмных» сторон жизни, 
+жестокости, насилия, ксенофобии. В заключительных 
+книгах цикла чётко прослеживается антивоенная 
+риторика, отнюдь, однако, не сводящаяся к пацифизму и 
+непротивлению злу.
+</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>    Представленные в мире произведения нечеловеческие 
+расы - эльфы, краснолюды, низушки - внешне 
+соответствуют традиционным канонам фэнтези, 
+однако их образы дополнены многими нехарактерными 
+для жанра элементами. 
+Так, эльфы - традиционно для фентези мудрые и 
+доброжелательные долгожители - у Сапковского 
+предстают как древняя, практически потерявшая 
+способность к размножению и из-за этого 
+вымирающая, раса самовлюблённых и высокомерных 
+существ, по степени жестокости и ненависти 
+к инородцам ничуть не уступающая людям, действия которой отличаются скорее изощрённым 
+коварством, чем мудростью. 
+Отряды эльфийских партизан - «белок» наводят ужас на крестьян, разрывающихся между страхом 
+перед эльфами и страхом перед наказанием за помощь им.
+
+В произведении присутствует ярко выраженная любовно-романтическая линия. 
+Важная особенность - своеобразное чувство юмора, местами переходящее в отчётливую сатиру 
+на злободневные проблемы современности. 
+Автор широко использует традиционные мифологические и сказочные сюжеты, однако 
+существенно переиначивает их, вплетая в канву повествования.
+</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>    Цикл «Ведьмак» относится к поджанру «постмодернистского» фэнтези. 
+Автор сохраняет традиционные для фэнтези декорации в стиле европейского позднего 
+средневековья. Однако образ мышления персонажей, их психология, переживания и 
+мотивации зачастую умышленно противоречат окружению, в которое они помещены 
+авторским замыслом, и соответствуют скорее нашим современникам. То же самое 
+касается поднимаемых в произведении проблем и вопросов, вполне актуальных для 
+современного читателя: прогресс и плата за него, давление цивилизации на окружающую 
+среду, столкновение цивилизаций, расовая нетерпимость, геноцид.
+</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>    
+                                                                                Главным героем серии является Геральт из Ривии, ведьмак - 
+                                                                                наёмник, выполняющий заказы, связанные с уничтожением 
+                                                                                чудовищ, представляющих угрозу для жизни людей. В 
+                                                                                детстве он, как и другие ведьмаки, подвергался мутациям, 
+                                                                                из-за которых приобрел сверхчеловеческие боевые 
+                                                                                качества: повышенную силу, молниеносные рефлексы, 
+                                                                                ускоренный метаболизм, иммунитет к ядам, 
+                                                                                но при этом потерял возможность иметь детей.
+
+                                                                                Основная работа Геральта - за деньги уничтожать различных 
+                                                                                опасных существ, оказавшихся в его мире после так 
+                                                                                называемого «сопряжения сфер». Однако он не всегда готов 
+                                                                                бездумно выполнять заказы своих нанимателей. К примеру, 
+                                                                                он отказывается уничтожать разумных существ или 
+                                                                                драконов, так как они существовали ещё до сопряжения.
+
+В соответствии с собственным кодексом поведения, он старается не участвовать в политических 
+интригах королей и чародеев, однако в итоге оказывается вовлечён в сложный узел противостояния 
+северных королевств и могущественной южной Нильфгаардской империи. Геральт пытается 
+защитить свою приёмную дочь Цири (Дитя-Неожиданность), юную княжну разрушенного 
+королевства Цинтры, предназначенную ему ещё до её рождения. Цири становится средоточием 
+интересов влиятельных сил (император Нильфгаарда, чародей Вильгефорц, Ложа чародеек, 
+Дикая Охота или же Дикий Гон), так как её потомку предсказано решить судьбу мира. Получив 
+от своих приёмных родителей (Геральта и его возлюбленной, чародейки Йеннифэр) символические 
+дары-умения: ведьмачье — владеть мечом; и чародейское — магией; перетерпевшая в дальнейшем 
+тяжёлые испытания, Цири становится наряду с Геральтом главной героиней саги.
+</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>    «Сага о ведьмаке» - цикл книг польского писателя Анджея Сапковского в жанре фэнтези.
+
+Первый рассказ цикла увидел свет в 1986 году, а последняя книга - в 2013. Действие книг происходит 
+в вымышленном Мире «Ведьмака», напоминающем Европу времён позднего средневековья, где 
+рядом с людьми существуют разного рода волшебные существа и чудовища.
+
+Геральт из Ривии - один из последних «ведьмаков», бродячих охотников на 
+чудовищ. Первые книги цикла представляют собой сборники рассказов о 
+приключениях Геральта, нередко сатирически обыгрывая фольклор и 
+классические литературные сказки, сюжет последующих книг представляет 
+собой более масштабную историю, построенную вокруг Геральта и его 
+воспитанницы Цири, обладающей сверхъестественными способностями. 
+
+
+По мотивам произведений сняты два сериала - польский (2002) и американский (2019), 
+и фанатский фильм «Полвека поэзии спустя»; выпущены компьютерные игры: «Ведьмак», 
+«Ведьмак 2: Убийцы королей», «Ведьмак 3: Дикая охота» и Гвинт; написана и поставлена 
+рок-опера; на родине писателя издавались комиксы о похождениях Геральта и других героев
+его саги.
+</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>38</value>
+  </metadata>
+</root>
