@@ -21,7 +21,7 @@ namespace TheWitcher
             InitializeComponent();
         }
 
-        private void buttonAdd_Click(object sender, EventArgs e)
+        private void buttonAdd_Click(object sender, EventArgs e) // Проверяет и заносит данные в переменные для будущего сохранения
         {
             string tempL = textBoxLogin.Text.Replace(" ", "");
             string tempP = textBoxPassword.Text.Replace(" ", "");

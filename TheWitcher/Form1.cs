@@ -98,16 +98,11 @@ namespace TheWitcher
             }
         }
 
-        private void FormAuth_FormClosing(object sender, FormClosingEventArgs e)
-        {
-
-        }
-
         ///
         ///
         ///
 
-        public int AnswerID(int id)
+        public int AnswerID(int id) // Проверяет логин авторизованного пользователя и заносит его ответы в файл в нужную строку по индексу
         {
             for (int i = 0; i< answer.Count; i++)
             {
@@ -299,7 +294,8 @@ namespace TheWitcher
             db[id].Add(group.Replace(" ", ""));
         }
 
-        public static void SaveAllData(bool IsDB, bool IsSession, bool isAnswer, string dbPath, string sessionPath, string answerPath, List<List<string>> db, List<List<string>> session, List<List<string>> answer) // Сохранение данных из списков в нужные файлы
+        // Сохранение данных из списков в нужные файлы
+        public static void SaveAllData(bool IsDB, bool IsSession, bool isAnswer, string dbPath, string sessionPath, string answerPath, List<List<string>> db, List<List<string>> session, List<List<string>> answer) 
         {
             if (IsDB) // Если нужно
             {
@@ -327,7 +323,7 @@ namespace TheWitcher
                 }
             }
 
-            if (IsSession) // Если нужно
+            if (IsSession) // Если нужно изменить статус сессии
             {
                 using (StreamWriter stream = new StreamWriter(sessionPath, false))
                 {
@@ -352,7 +348,7 @@ namespace TheWitcher
                 }
             }
 
-            if (isAnswer)
+            if (isAnswer) // Если нужно добавить ответы
             {
                 using (StreamWriter stream = new StreamWriter(answerPath, false))
                 {

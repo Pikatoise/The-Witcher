@@ -38,7 +38,7 @@ namespace TheWitcher
             }
         }
 
-        private void buttonExit_Click(object sender, EventArgs e)
+        private void buttonExit_Click(object sender, EventArgs e) // Выход из аккаунта, сохранение данных, очистка полей
         {
             formAuth.session.Last()[1] = "true";
             FormAuth.SaveAllData(true, true, true, formAuth.dbPath, formAuth.sessionPath, formAuth.answerPath, formAuth.db, formAuth.session, formAuth.answer);
@@ -52,7 +52,8 @@ namespace TheWitcher
             formAuth.Show();
         }
 
-        private void buttonT1_Click(object sender, EventArgs e)
+        //Далее жопа
+        private void buttonT1_Click(object sender, EventArgs e) // Открывает тему в зависимости от предыдущих действий(Теория с тестом\Тест без теории\Теория без теста)
         {
             FormT1 formT1 = new FormT1();
             
@@ -302,7 +303,7 @@ namespace TheWitcher
                     }
                 }
 
-                for (int i = 0; i < controlsButton.Count; i++) // Цикл отображения доступности тем
+                for (int i = 0; i < controlsButton.Count; i++) // Цикл отображения доступности тем и ответов по пройденным тестам
                 {
                     if (controlsLabel[i].Text == "-")
                     {
@@ -346,7 +347,7 @@ namespace TheWitcher
                         
                 }
             }
-            else
+            else // Очистка
             {
                 labelProcent.Text = "";
                 for (int i = 0; i < controlsLabel.Count; i++)
@@ -366,7 +367,7 @@ namespace TheWitcher
             }
         }
 
-        public void UpdateData(bool AddOrClear, int id=-1, List<List<string>> db = null)
+        public void UpdateData(bool AddOrClear, int id=-1, List<List<string>> db = null) // Загрузка фио и группы пользователя
         {
             if (AddOrClear)
             {

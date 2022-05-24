@@ -78,7 +78,7 @@ namespace TheWitcher
         //
         //
 
-        public void Find(DataGridView grid, TextBox box)
+        public void Find(DataGridView grid, TextBox box) // Ищет пользователей по введенной части фио в таблице и выделяет
         {
             grid.ClearSelection();
             for (int i = 0; i< grid.Rows.Count; i++)
@@ -90,7 +90,7 @@ namespace TheWitcher
             }
         }
 
-        public int IdUpdate(List<List<string>> db)
+        public int IdUpdate(List<List<string>> db) // Обновление айди текущего пользователя после удаление другого
         {
             for (int i = 0; i < db.Count; i++)
             {
@@ -102,7 +102,7 @@ namespace TheWitcher
             return -1;
         }
 
-        public class DB
+        public class DB // Шайтан много функциональная машина 
         {
             public List<List<string>> records = new List<List<string>>();
 
@@ -111,7 +111,7 @@ namespace TheWitcher
                 records = db;
             }
 
-            public void DataToGrid(DataGridView grid)
+            public void DataToGrid(DataGridView grid) // Загружает данные из "базы" в таблицу
             {
                 grid.Rows.Clear();
                 for (int i = 0; i < records.Count; i++)
@@ -124,14 +124,14 @@ namespace TheWitcher
                 }
             }
 
-            public void RemoveUser(DataGridView grid, int index)
+            public void RemoveUser(DataGridView grid, int index) // Удаляет пользователя
             {
                 this.records.RemoveAt(index);
 
                 this.DataToGrid(grid);
             }
 
-            public void AddUser(string login,string password,bool isAdmin, DataGridView grid)
+            public void AddUser(string login,string password,bool isAdmin, DataGridView grid) // Добавляет пользователя)
             {
                 bool lTaken = false;
 
@@ -159,7 +159,7 @@ namespace TheWitcher
                 }
             }
 
-            public void Sort(DataGridView grid, TextBox textBoxGroup, Button bSort, Label l, Button Add, Button Del)
+            public void Sort(DataGridView grid, TextBox textBoxGroup, Button bSort, Label l, Button Add, Button Del) // Хз как заработало, но берет пользователей из базы с нужной группой и сортирует их по фио
             {
                 if (bSort.Text.Contains("Сортировать"))
                 {

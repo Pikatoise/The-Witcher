@@ -24,7 +24,7 @@ namespace TheWitcher
             DiagMaker(textBoxGroup.Text);
         }
 
-        private void buttonSort_Click(object sender, EventArgs e)
+        private void buttonSort_Click(object sender, EventArgs e) // Сортирует/Отменяет сортировку
         {
             if (buttonSort.Text == "Сортировать")
             {
@@ -48,7 +48,7 @@ namespace TheWitcher
         //
         //
 
-        public void DiagMaker(string sort)
+        public void DiagMaker(string sort) // По тупому забивает данные в диаграмму
         {
             if (formAuth.db.Count > 0)
             {
@@ -85,7 +85,7 @@ namespace TheWitcher
                 ///
 
                 chart2.Series[0].Points.Clear();
-                int[] o = new int[] {0,0,0,0,0};
+                int[] o = new int[] {0,0,0,0};
                 string[] oName = new string[] {"Два", "Три", "Четыре", "Пять"};
                 string[] oCheck = new string[] {"2", "3", "4", "5"};
 

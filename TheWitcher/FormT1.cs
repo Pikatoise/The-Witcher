@@ -11,7 +11,7 @@ using System.IO;
 
 namespace TheWitcher
 {
-    public partial class FormT1 : Form
+    public partial class FormT1 : Form // Форма с тестом как и все
     {
         public string tempT ="null";
         public bool isTest = false;

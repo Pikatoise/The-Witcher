@@ -298,7 +298,6 @@
             this.Name = "FormAuth";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormAuth_FormClosing);
             this.Load += new System.EventHandler(this.FormAuth_Load);
             this.panelAuth.ResumeLayout(false);
             this.panelAuth.PerformLayout();

@@ -11,6 +11,7 @@ using System.Threading;
 
 namespace TheWitcher
 {
+    // Супер костыльно формирует вопросы теста из ресурсов/txt на заготовленной панели с кнопкой завершения
     public class Test
     {
         string path; // Путь до файла с вопросами
@@ -25,7 +26,7 @@ namespace TheWitcher
         List<GroupBox> groups = new List<GroupBox>(); // Список групп для каждого вопроса
         List<RadioButton> rBTrue = new List<RadioButton>(); // Список правильных ответов
 
-        public Test(string path, Panel pTest, Panel pText, Button bEnd) // Создание экземпляра для чтения вопросов из файла
+        public Test(string path, Panel pTest, Panel pText, Button bEnd) // Создание экземпляра для чтения вопросов из файла когда есть теория
         {
             this.path = path;
             this.bEnd = bEnd;
@@ -35,7 +36,7 @@ namespace TheWitcher
             ReadText(path, false);
         }
 
-        public Test(Panel pTest, Panel pText, Button bEnd, string text) // Создание экземпляра для чтения из ресурсов программы
+        public Test(Panel pTest, Panel pText, Button bEnd, string text) // Создание экземпляра для чтения из ресурсов программы когда есть теория
         {
             this.pTest = pTest;
             this.bEnd = bEnd;
@@ -88,7 +89,7 @@ namespace TheWitcher
             }
         }
 
-        public void LayoutTest() // Вывод всех элементов панели теста в неё
+        public void LayoutTest() // Вывод всех элементов панели теста в неё же
         {
 
             int locationHeightGroup = 65; // Положение каждой группы
@@ -173,7 +174,7 @@ namespace TheWitcher
             this.pTest.ResumeLayout();
         }
 
-        async public void ShowTest(bool isFast)
+        async public void ShowTest(bool isFast) // Отображение панели теста быстро/плавно и скрытие теории если она есть
         {
             if (this.pText != null) this.pText.SuspendLayout();
             this.pTest.SuspendLayout();
@@ -215,10 +216,9 @@ namespace TheWitcher
 
             if (this.pText != null) this.pText.ResumeLayout();
             this.pTest.ResumeLayout();
-            // Скрыть кнопку старта и предупреждение
         }
 
-        public int TimerWork(Label l, int time)
+        public int TimerWork(Label l, int time) // Время в таймере
         {
             int min = time / 60;
             int sec = time % 60 - 1;
@@ -229,7 +229,7 @@ namespace TheWitcher
             return time;
         }
 
-        public int End(ref string answerT, ref string answerF)
+        public int End(ref string answerT, ref string answerF) // Завершение теста, считает оценку и формирует строки с ответами
         {
             answerT += "[";
             answerF += "[";

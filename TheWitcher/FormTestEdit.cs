@@ -15,14 +15,14 @@ namespace TheWitcher
     public partial class FormTestEdit : Form
     {
         string temp;
-        string docPath = $@"{Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)}\TheWitcherBook";
+        string docPath = $@"{Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)}\TheWitcherBook"; // путь до документов
 
         public FormTestEdit()
         {
             InitializeComponent();
         }
 
-        private void buttonT_MouseEnter(object sender, EventArgs e)
+        private void buttonT_MouseEnter(object sender, EventArgs e) // При наведении меняет надпись
         {
             ((Button)sender).SuspendLayout();
             temp = ((Button)sender).Text;
@@ -30,7 +30,7 @@ namespace TheWitcher
             ((Button)sender).ResumeLayout();
         }
 
-        private void buttonT_MouseLeave(object sender, EventArgs e)
+        private void buttonT_MouseLeave(object sender, EventArgs e) // При выходе мыши из кнопки возвращает надпись
         {
             ((Button)sender).SuspendLayout();
             ((Button)sender).Text = temp;
@@ -95,7 +95,7 @@ namespace TheWitcher
             }
         }
 
-        void EditT(string path)
+        void EditT(string path) // Открытие/Создание файла теста для редактирования
         {
             if (File.Exists(path))
             {
@@ -109,7 +109,7 @@ namespace TheWitcher
             }
         }
 
-        void DownloadT(string text)
+        void DownloadT(string text) // Скачать тест из ресурсов в txt
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog()
             {

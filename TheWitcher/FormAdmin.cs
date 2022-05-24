@@ -20,7 +20,7 @@ namespace TheWitcher
             InitializeComponent();
         }
 
-        private void buttonExit_Click(object sender, EventArgs e)
+        private void buttonExit_Click(object sender, EventArgs e) // Выход из аккаунта
         {
             if (formAuth.session.Last().Count > 1)
             {
@@ -65,11 +65,17 @@ namespace TheWitcher
             formDiag.ShowDialog();
         }
 
+        private void buttonTestEdit_Click(object sender, EventArgs e)
+        {
+            FormTestEdit formTestEdit = new FormTestEdit();
+            formTestEdit.ShowDialog();
+        }
+
         //
         //
         //
 
-        public void LoginUpdate(bool AddOrRemove)
+        public void LoginUpdate(bool AddOrRemove) // Показывает логин админа
         {
             if (AddOrRemove)
             {
@@ -79,12 +85,6 @@ namespace TheWitcher
                 } else labelLogin.Text = formAuth.db[formAuth.id][0];
             }
             else labelLogin.Text = "";
-        }
-
-        private void buttonTestEdit_Click(object sender, EventArgs e)
-        {
-            FormTestEdit formTestEdit = new FormTestEdit();
-            formTestEdit.ShowDialog();
         }
     }
 }
